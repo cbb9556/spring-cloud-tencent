@@ -19,5 +19,6 @@
  * Spring Cloud Starter Tencent ALL In One.
  *
  * @author Haotian Zhang
+ * @release 1.0
  */
 package com.tencent.cloud;
